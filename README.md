@@ -49,14 +49,14 @@ Right now, I'm participating in a machine learning program through Cornell Tech'
 
 - [LinkedIn](https://www.linkedin.com/in/amelienorris)
 - [Email](mailto:aminrs0315@gmail.com)  
-- [GitHub](https://github.com/aminrs0315) *(you're here!)*  
+- [GitHub](https://github.com/amelie0315) *(you're here!)*  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Amelie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminrs0315&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminrs0315&layout=compact&theme=tokyonight)
+![Amelie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amelie0315&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amelie0315&layout=compact&theme=tokyonight)
 
 ---
 

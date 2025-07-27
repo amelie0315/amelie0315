@@ -4,7 +4,7 @@
 🌟 Break Through Tech AI Fellow | Community-Driven Technologist  
 🎮 ML Explorer | Community Involved | Game Archivist |   
 
-I'm passionate about using technology to build things that are fun, meaningful, and accessible. Whether it's restoring abandoned Roblox games to preserve gaming history, or creating marketing materials for Cal State Monterey Bay's Otter Student Union, I love combining creativity with impact.
+I'm passionate about using technology to build things that are fun, meaningful, and accessible. Whether it's recoding abandoned Roblox games to preserve game functionality, or creating marketing materials for Cal State Monterey Bay's Otter Student Union, I love combining creativity with impact.
 
 Right now, I'm participating in a machine learning program through Cornell Tech's Break Through Tech AI program and expanding my skills in Python, scikit-learn, NumPy, and pandas. I’m looking for opportunities to contribute to mission-driven teams that care about innovation, accessibility, and human-centered design.
 
